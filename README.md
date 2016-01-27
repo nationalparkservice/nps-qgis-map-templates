@@ -46,4 +46,4 @@ Additionally, we waive copyright and related rights in the work worldwide throug
 David A. Riggs  
 Physical Science Technician  
 Lava Beds National Monument  
-<david_a_riggs at nps dot gov>
+email: david_a_riggs at nps dot gov
