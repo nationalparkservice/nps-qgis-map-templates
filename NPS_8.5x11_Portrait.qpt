@@ -1,0 +1,101 @@
+<Composer title="NPS 8.5x11 Portrait" visible="1">
+ <Composition gridVisible="1" printResolution="300" paperWidth="215.9" snapGridOffsetX="0" guidesVisible="1" snapGridResolution="10" snapGridOffsetY="0" alignmentSnap="1" snapping="0" snapTolerancePixels="5" numPages="1" paperHeight="279.4" smartGuides="1" printAsRaster="0" generateWorldFile="0">
+  <symbol alpha="1" type="fill" name="">
+   <layer pass="0" class="SimpleFill" locked="0">
+    <prop k="border_width_map_unit_scale" v="0,0"/>
+    <prop k="color" v="255,255,255,255"/>
+    <prop k="joinstyle" v="miter"/>
+    <prop k="offset" v="0,0"/>
+    <prop k="offset_map_unit_scale" v="0,0"/>
+    <prop k="offset_unit" v="MM"/>
+    <prop k="outline_color" v="0,0,0,255"/>
+    <prop k="outline_style" v="no"/>
+    <prop k="outline_width" v="0.26"/>
+    <prop k="outline_width_unit" v="MM"/>
+    <prop k="style" v="solid"/>
+   </layer>
+  </symbol>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <ComposerScaleBar segmentMillimeters="8.05444" numMapUnitsPerScaleBarUnit="1" numSegments="4" height="2" alignment="0" labelBarSpace="3" outlineWidth="0.6" units="1" numSegmentsLeft="0" lineJoinStyle="miter" style="Single Box" unitLabel="m" lineCapStyle="square" font="Helvetica,8,-1,5,50,0,0,0,0,0" mapId="0" boxContentSpace="1" numUnitsPerSegment="1">
+   <fillColor alpha="255" red="0" blue="0" green="0"/>
+   <fillColor2 alpha="255" red="255" blue="255" green="255"/>
+   <strokeColor alpha="255" red="0" blue="0" green="0"/>
+   <textColor alpha="255" red="0" blue="0" green="0"/>
+   <ComposerItem pagey="257.705" page="1" id="Scale Bar" lastValidViewScaleFactor="-1" positionMode="0" positionLock="true" x="45.7654" y="257.705" visibility="1" zValue="15" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="77.5393" outlineWidth="0.3" excludeFromExports="0" uuid="{361dde66-863c-4f82-bf75-adbc8f005c4e}" height="13.9453" itemRotation="0" frame="false" pagex="45.7654">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerScaleBar>
+  <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Lava Beds Natural Resource Management, January 2016&#xa;Data Sources: NPS Park Data, National Elevation Dataset, Other GIS data sources that you should cite here" htmlState="0" halign="1">
+   <LabelFont description="Helvetica,8,-1,5,50,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem pagey="257.874" page="1" id="Misc. Info" lastValidViewScaleFactor="-1" positionMode="0" positionLock="true" x="125.644" y="257.874" visibility="1" zValue="12" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="80.7227" outlineWidth="0.3" excludeFromExports="0" uuid="{9bb6adc4-7924-4b03-bdaf-fb1a0395a283}" height="11.8213" itemRotation="0" frame="false" pagex="125.644">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerPicture resizeMode="0" pictureRotation="0" pictureWidth="7.64638" file="C:/PROGRA~1/QGIS2~1.8/apps/qgis-ltr/svg/arrows/NorthArrow_04.svg" pictureHeight="12.159" mapId="-1" anchorPoint="0">
+   <ComposerItem pagey="257.874" page="1" id="North Arrow" lastValidViewScaleFactor="-1" positionMode="0" positionLock="true" x="11" y="257.874" visibility="1" zValue="11" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="8.528" outlineWidth="0.3" excludeFromExports="0" uuid="{0fb647ee-0625-4269-9355-e24c709c72e0}" height="12.159" itemRotation="0" frame="false" pagex="11">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <dataDefinedSource expr="" field="" active="false" useExpr="true"/>
+   </ComposerItem>
+  </ComposerPicture>
+  <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Lava Beds National Monument&#xa;National Park Service&#xa;U.S. Department of the Interior" htmlState="0" halign="1">
+   <LabelFont description="Helvetica,10,-1,5,50,0,0,0,0,0"/>
+   <FontColor red="255" blue="255" green="255"/>
+   <ComposerItem pagey="9.23171" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="true" x="137.127" y="9.23171" visibility="1" zValue="6" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="51.8449" outlineWidth="0.3" excludeFromExports="0" uuid="{a18d63c1-23e3-4eb6-a821-87c1c4aec7c7}" height="15.5366" itemRotation="0" frame="false" pagex="137.127">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerPicture resizeMode="0" pictureRotation="0" pictureWidth="13.0569" file="resources/NPS_Arrowhead_Logo_Flat_Color_Black_BG.svg" pictureHeight="17" mapId="-1" anchorPoint="4">
+   <ComposerItem pagey="8.5" page="1" id="NPS Arrowhead Logo" lastValidViewScaleFactor="-1" positionMode="0" positionLock="true" x="188.972" y="8.5" visibility="1" zValue="5" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="17.732" outlineWidth="0.3" excludeFromExports="0" uuid="{19e6cd37-fd13-48bf-8d1f-c25faa417477}" height="17" itemRotation="0" frame="false" pagex="188.972">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="0" blue="0" green="0"/>
+    <dataDefinedSource expr="" field="" active="false" useExpr="true"/>
+   </ComposerItem>
+  </ComposerPicture>
+  <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Map Subtitle" htmlState="0" halign="1">
+   <LabelFont description="Helvetica,12,-1,5,50,0,0,0,0,0"/>
+   <FontColor red="255" blue="255" green="255"/>
+   <ComposerItem pagey="17.652" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="true" x="11" y="17.652" visibility="1" zValue="4" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="94.687" outlineWidth="0.3" excludeFromExports="0" uuid="{5937d102-65b8-45a3-bfd2-2957258adc3c}" height="6" itemRotation="0" frame="false" pagex="11">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Map Title" htmlState="0" halign="1">
+   <LabelFont description="Helvetica,14,-1,5,75,0,0,0,0,0"/>
+   <FontColor red="255" blue="255" green="255"/>
+   <ComposerItem pagey="10.639" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="true" x="11" y="10.639" visibility="1" zValue="3" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="92.582" outlineWidth="0.3" excludeFromExports="0" uuid="{fe094fef-2161-446f-88ca-112182a0e232}" height="7.013" itemRotation="0" frame="false" pagex="11">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerHtml maxBreakDistance="10" contentMode="1" resizeMode="0" url="" useSmartBreaks="true" evaluateExpressions="true" html="" stylesheetEnabled="false" stylesheet="">
+   <ComposerFrame sectionWidth="199.9" sectionHeight="18" hideBackgroundIfEmpty="0" hidePageIfEmpty="0" sectionX="0" sectionY="0">
+    <ComposerItem pagey="8" page="1" id="NPS Black Bar" lastValidViewScaleFactor="-1" positionMode="0" positionLock="true" x="8" y="8" visibility="1" zValue="2" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="199.9" outlineWidth="0.3" excludeFromExports="0" uuid="{e2f3fa28-690e-4884-bee7-5dd5d30541e2}" height="18" itemRotation="0" frame="false" pagex="8">
+     <FrameColor alpha="255" red="0" blue="0" green="0"/>
+     <BackgroundColor alpha="255" red="0" blue="0" green="0"/>
+    </ComposerItem>
+   </ComposerFrame>
+  </ComposerHtml>
+  <ComposerHtml maxBreakDistance="10" contentMode="1" resizeMode="0" url="" useSmartBreaks="true" evaluateExpressions="true" html="" stylesheetEnabled="false" stylesheet="">
+   <ComposerFrame sectionWidth="199.9" sectionHeight="263.4" hideBackgroundIfEmpty="0" hidePageIfEmpty="0" sectionX="0" sectionY="0">
+    <ComposerItem pagey="8" page="1" id="Outside Border" lastValidViewScaleFactor="-1" positionMode="0" positionLock="true" x="8" y="8" visibility="1" zValue="1" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="199.9" outlineWidth="0.5" excludeFromExports="0" uuid="{9f1b4d1c-aae2-4135-91ca-ca2c8844e848}" height="263.4" itemRotation="0" frame="true" pagex="8">
+     <FrameColor alpha="255" red="0" blue="0" green="0"/>
+     <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    </ComposerItem>
+   </ComposerFrame>
+  </ComposerHtml>
+  <ComposerHtml maxBreakDistance="10" contentMode="0" resizeMode="0" url="" useSmartBreaks="true" evaluateExpressions="true" html="" stylesheetEnabled="false" stylesheet=""/>
+  <ComposerHtml maxBreakDistance="10" contentMode="1" resizeMode="0" url="" useSmartBreaks="true" evaluateExpressions="true" html="" stylesheetEnabled="false" stylesheet="">
+   <ComposerFrame sectionWidth="199.9" sectionHeight="15" hideBackgroundIfEmpty="0" hidePageIfEmpty="0" sectionX="0" sectionY="0">
+    <ComposerItem pagey="256.4" page="1" id="Bottom Frame Border" lastValidViewScaleFactor="-1" positionMode="0" positionLock="true" x="8" y="256.4" visibility="1" zValue="7" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="199.9" outlineWidth="0.5" excludeFromExports="0" uuid="{38da80f0-aa86-41cc-9216-21f081010cee}" height="15" itemRotation="0" frame="true" pagex="8">
+     <FrameColor alpha="255" red="0" blue="0" green="0"/>
+     <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    </ComposerItem>
+   </ComposerFrame>
+  </ComposerHtml>
+ </Composition>
+</Composer>
